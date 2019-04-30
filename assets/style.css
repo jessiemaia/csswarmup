@@ -12,6 +12,7 @@ main {
 }
 
 aside {
+  font-family: Arial, sans-serif;
   width: 40%;
   padding-left: 100px;
   margin-left: .5rem;
@@ -29,6 +30,7 @@ section>h1 {
 }
 
 section {
+  font-family: Arial, sans-serif;
   display: block;
   float: left;
   padding-left: 300px;
