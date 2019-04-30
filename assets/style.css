@@ -9,13 +9,14 @@ header {
 
 aside {
   width: 40%;
-  padding-left: 10px;
+  padding-left: 100px;
   margin-left: .5rem;
   float: right;
-  font-style: italic;
+  font-family: Arial, sans-serif;
 }
 section>h1 {
   color: red;
+  font-family: Arial, sans-serif;
 }
 
 #demobox {
@@ -29,6 +30,8 @@ section {
   float: left;
   padding-left: 300px;
   padding-right: 300px;
+  font-family: Arial, sans-serif;
+
 }
 
 .footer {
