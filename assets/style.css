@@ -12,10 +12,14 @@ aside {
   width: 120px;
 }
 section>h1 {
-  border-top-color: #cfe2f2;
-  border-top-width: medium;
   color: red;
 }
+
+#demobox {
+  background-color: #cfe2f2;
+  padding: 10px;
+}
+
 section {
   display: block;
   float: left;
