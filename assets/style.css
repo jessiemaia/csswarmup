@@ -14,11 +14,12 @@ aside {
   margin: 0;
 }
 section>h1 {
+  border-top-color: #cfe2f2;
+  border-top-width: medium;
   color: red;
 }
 section {
-  border-top-color: #cfe2f2;
-  border-top-width: medium;
+  
   float: left;
   padding-left: 200px;
   padding-right: 50px;
