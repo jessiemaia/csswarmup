@@ -20,6 +20,8 @@ section {
 }
 
 footer {
-  clear: both; 
+  padding: 50px;
   background-color: #1c4586; 
+  border: 3px solid black;
+
 }
