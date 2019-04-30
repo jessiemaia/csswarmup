@@ -14,10 +14,6 @@ aside {
   margin: 0;
 }
 
-section>h1 {
-  color:red; 
-}
-
 section {
   border-top-color: #cfe2f2;
   border-top-width: medium;
