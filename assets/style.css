@@ -1,9 +1,20 @@
 header {
   background-color: #1c4586; 
+  padding: 5px;
   color: white;
   text-align: center;
   font-size: 80px;
   font-weight: 100;
   font-family: Arial, sans-serif;
   border: 3px solid black;
+}
+
+aside {
+  float: right;
+}
+
+section {
+  float: left;
+  margin: 0 1.5%;
+  width: 50%;
 }
