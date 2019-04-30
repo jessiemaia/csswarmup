@@ -8,10 +8,8 @@ header {
 }
 
 aside {
-  display: block;
   float: right;
   width: 120px;
-  margin: 0;
 }
 section>h1 {
   border-top-color: #cfe2f2;
