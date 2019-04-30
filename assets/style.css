@@ -18,3 +18,8 @@ section {
   margin: 0 1.5%;
   width: 50%;
 }
+
+footer {
+  clear: both; 
+  background-color: #1c4586; 
+}
