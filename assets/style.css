@@ -2,8 +2,9 @@ header {
   background-color: #1c4586; 
   padding: 50px 50px;
   color: white;
+  text-align: center;
   font-size: 30px;
-  font-family: Tahoma, Geneva, sans-serif;
-  font-weight: lighter;
-
+  font-weight: 100;
+  font-family: Arial, sans-serif;
+  border: 3px solid black;
 }
