@@ -8,8 +8,11 @@ header {
 }
 
 aside {
+  width: 40%;
+  padding-left: .5rem;
+  margin-left: .5rem;
   float: right;
-  width: 100px;
+  font-style: italic;
 }
 section>h1 {
   color: red;
