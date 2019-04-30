@@ -10,6 +10,8 @@ header {
 aside {
   font-family: Arial, sans-serif;
   display: block;
+  padding-left: .5rem;
+  margin-left: .5rem;
   width: 40%;
   float: right;
 }
